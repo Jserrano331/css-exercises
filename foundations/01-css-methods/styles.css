@@ -1,0 +1,11 @@
+body{
+    color:white;
+}
+
+div {
+    background-color: red;
+    font-size: 32px;
+    color: white;
+    text-align: center;
+    font-weight: 700;
+}
